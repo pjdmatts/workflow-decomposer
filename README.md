@@ -20,7 +20,7 @@ Given any task description, the skill:
 Clone this repo into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/workflow-decomposer ~/.claude/skills/workflow-decomposer
+git clone https://github.com/pjdmatts/workflow-decomposer ~/.claude/skills/workflow-decomposer
 ```
 
 Or copy the skill files manually:
